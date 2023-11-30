@@ -4,7 +4,8 @@
 ### hình ảnh cơ sở dữ liệu 
 
 ![img.png](img.png)
-
+### link font end
+*(https://github.com/NguyenGiaHy123/labweentuan6b_fontend.git)
 ### Chức năng đăng ký 
 ![img_2.png](img_2.png)
 
